@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # API CRUD Users
 
 API sederhana untuk mengelola data user (Create, Read, Update, Delete) menggunakan PHP Native dan PDO.
@@ -11,7 +10,4 @@ API sederhana untuk mengelola data user (Create, Read, Update, Delete) menggunak
 | GET    | /api/v1/users/{id}| Ambil user berdasarkan ID   |
 | POST   | /api/v1/users     | Tambah user baru            |
 | PUT    | /api/v1/users/{id}| Update user berdasarkan ID  |
-| DELETE | /api/v1/users/{id}| Hapus user berdasarkan ID   |"# api-crud-users" 
-=======
-"# api-crud-users" 
->>>>>>> 733fa13276a8e40f557118572dab928edae5a226
+| DELETE | /api/v1/users/{id}| Hapus user berdasarkan ID   |
